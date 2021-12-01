@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Somasundaram</h1>
 <h3 align="center">A Passionate full-stack developer</h3>
 
+<p align="center">
+  <img alt="" src="https://github.com/somu786/somu786/blob/main/githubProfile.gif">
+</p>
+
 - 🔭 I’m currently looking for **internship**
 
 - 🌱 I’m currently learning **Blockchain Technology**
