@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently looking for **internship**
 
-- 🌱 I’m currently learning **Blockchain Technology**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **react, python and blockchain**
+- 💬 Ask me about **react, python and Data Analytics**
 
 - 📫 How to reach me **somusonthos@gmail.com**
 
