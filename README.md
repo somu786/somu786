@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **somusonthos@gmail.com**
 
-- ⚡ Fun fact **I use perfume to gain my confidence😆**
-
 <h3 align="center">About Me</h3>
 Hi, I'm Somasundaram. Currently, I'm pursuing my under graduation course in B.E.Computer Science Engineering from Anna University. I'm a passionate web developer with experience in front-end technologies such as React, JavaScript, CSS, and Bootstrap, as well as back-end technologies such as MongoDB, MySQL, Node.js, EJS templates, and GitHub. My Short term goal is to get the job in reputed company. My Long term goal is to become more responsible and knowledgeable personality and on respectable position on my company. My favourite quote was "Every Expert Was Once A Beginner". That's all about me!
 
